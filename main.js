@@ -8,7 +8,7 @@ const schedule = require("node-schedule"); //定时器任务库
 //配置项
 
 //纪念日
-let startDay = "2017/8/5";
+let startDay = "2017/8/4"; // 本来是2017/8/5由于服务器时差问题8个小时
 //当地拼音,需要在下面的墨迹天气url确认
 const local = "beijing/chaoyang-district";
 //发送者邮箱厂家
